@@ -48,7 +48,7 @@
         <div class="container">
             <h1><a href="booklist.php">Booklist</a></h1>
             
-            <h2>書籍の登録フォーだよム</h2>
+            <h2>書籍の登録フォームです</h2>
             <form action="booklist.php" method="POST" class="form-inline mb-2">
                 <div class="form-group mr-2">
                     <input type="text" name="book_title" class="form-control" placeholder="書籍タイトルを入力" required>
